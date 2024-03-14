@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a248c7da085e7e9938f6e96f78266dfe915b7c0a",
+    "author": "Lincoln Mullen <lincoln@lincolnmullen.com>",
+    "time": "2021-10-13 21:39:51",
+    "files": 1,
+    "merge": false,
+    "message": "Update changed URL\n"
+  },
+  "repo": "https://github.com/ropensci/historydata",
+  "pkg": "historydata"
+}
